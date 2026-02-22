@@ -53,7 +53,6 @@ Typical pin assignment example:
 - Timing with `delay()`
 - Basic RGB color mixing
 - Creating structured light animations\
-\
 
 ***
 
