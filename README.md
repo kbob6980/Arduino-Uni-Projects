@@ -1,2 +1,8 @@
 # Arduino-Uni-Projects
 Simple Arduino projects done during University IoT course. The code will be terrible but it just works :)
+***
+## [Arduino LED Sequence (6 LEDs)](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence.ino)
+A simple Arduino project that lights up 6 LEDs in a repeating sequence.
+Built and simulated in Tinkercad.
+![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence_01.png)
+
