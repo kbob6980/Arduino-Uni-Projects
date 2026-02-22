@@ -2,28 +2,13 @@
 Simple Arduino projects completed as part of an IoT module in my Master's program.\
 The code may not be pretty, but it gets the job done!
 ***
-## [Arduino LED Sequence (6 LEDs)](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence.ino)
-A simple Arduino project that lights up 6 LEDs in a repeating sequence.\
-Built and simulated in Tinkercad.\
-\
-![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence_01.png)
-
-***
-## [Arduino Seven_Segment_Display](https://github.com/kbob6980/Arduino-Uni-Projects/tree/main/Seven_Segment_Display)
-2 simple projects done with a seven-segment display.\
-The first one is a 0-9 counting loop.\
-The second one is a simple "flowing" shapes loop.\
-Built and simulated in Tinkercad.\
-\
-![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/Seven_Segment_Display/7_segment_display.png)
-
-***
 ## [Arduino LED Sequence + RGB Demo](https://github.com/kbob6980/Arduino-Uni-Projects/tree/main/Seven_Segment_Display)
-
 A simple Arduino project with 7 regular LEDs and 1 RGB LED arranged in a horizontal line.  
 The LEDs create a specific chasing / fill / color cycle animation.
 
-Created and tested in Tinkercad (or real hardware).
+Created and tested in Tinkercad.
+\
+![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/Diodes_and_LED_Loop.png)
 
 ### Circuit
 
@@ -67,7 +52,31 @@ Typical pin assignment example:
 - Practice sequential control of multiple outputs
 - Timing with `delay()`
 - Basic RGB color mixing
-- Creating structured light animations
+- Creating structured light animations\
 \
-![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/Diodes_and_LED_Loop.png)
 
+***
+
+## [Arduino LED Sequence (6 LEDs)](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence.ino)
+A simple Arduino project that lights up 6 LEDs in a repeating sequence.\
+Built and simulated in Tinkercad.\
+\
+![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/6_diode_sequence_01.png)
+
+### Features
+
+- Lights up 6 LEDs one after another
+- Smooth chasing/knight rider style sequence
+- Easy to build and understand
+\
+
+
+***
+## [Arduino Seven_Segment_Display](https://github.com/kbob6980/Arduino-Uni-Projects/tree/main/Seven_Segment_Display)
+2 simple projects done with a seven-segment display.\
+\
+![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/Seven_Segment_Display/7_segment_display.png)\
+\
+The first one is a 0-9 counting loop with 1s pause between each number.\
+The second one is a simple "flowing" shapes loop.\
+Built and simulated in Tinkercad.\
