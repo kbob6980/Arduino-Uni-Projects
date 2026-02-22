@@ -1,4 +1,4 @@
-# Arduino-Uni-Projects
+# Arduino Univeristy Projects
 Simple Arduino projects completed as part of an IoT module in my Master's program.\
 The code may not be pretty, but it gets the job done!
 ***
@@ -71,7 +71,7 @@ Built and simulated in Tinkercad.\
 
 
 ***
-## [Arduino Seven_Segment_Display](https://github.com/kbob6980/Arduino-Uni-Projects/tree/main/Seven_Segment_Display)
+## [Arduino Seven Segment_Display](https://github.com/kbob6980/Arduino-Uni-Projects/tree/main/Seven_Segment_Display)
 2 simple projects done with a seven-segment display.\
 \
 ![Project screenshot](https://github.com/kbob6980/Arduino-Uni-Projects/blob/main/Seven_Segment_Display/7_segment_display.png)\
